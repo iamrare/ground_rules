@@ -9,7 +9,7 @@
 
 # Ground rules
 
-Ground rules are simple guidelines that improve teamwork and communication.
+Ground rules are simple guidelines that improve teamwork and communication. Ground rules may be also known as working agreements, team arrangements, shared expectations, and group understandings.
 
 Contents:
 * [What are ground rules?](#what-are-ground-rules)
@@ -26,14 +26,17 @@ Contents:
 * [For planning meetings](#examples-for-planning-meetings)
 * [For remote meetings](#for-remote-meetings)
 * [For standups and standdowns](#for-standups-and-standdowns)
+* [For workweeks](#for-workweeks)
+* [For workdays](#for-workdays)
+* [For workhours](#for-workhours)
 * [For feedback](#for-feedback)
 * [For technology projects](#for-technology-projects)
 * [For documentation](#for-documentation)
 
 Docs:
-* [Adult Principles by John Perry Barlow](docs/adult-principles-by-john-perry-barlow.md)
-* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_telsa_by_elon_musk.md)
-* [Rules of the Road by Jerry Perenchio](docs/rules-of-the-road-by-jerry-perenchio.md)
+* [Adult Principles by John Perry Barlow](docs/adult_principles_by_john_perry_barlow.md)
+* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
+* [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
 
 
 ## What are ground rules?
@@ -71,7 +74,7 @@ For everybody, here are some examples.
 
 ## For mutual interactions
 
-For interactions, here are some examples:
+For interactions, here are some examples.
 
 * Mutual respect.
 * Mutual purpose.
@@ -195,11 +198,11 @@ For team sign language, here are some examples.
 * To agree, use thumb up.
 * To disagree, use thumb down.
 * To abstain, use thumb sideways.
-* To clarify, use the letter "C" sign.
-* To say "I can't hear", cup your hand by your ear.
-* To say "speak up", cup your hand by your mouth.
-* To say "time out", make the time out sign; conversation stops and the facilitator takes over.
-
+* To say that you have a clarification, or want a clarification, use the letter "C" sign.
+* To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
+* To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
+* To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
+* The team sign language can be especially helpful on video conference calls, and in large meetings.
 
 ## For team calendars
 
@@ -210,17 +213,6 @@ Aims:
 * Aim toward morning times instead of afternoon times.
 * Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
 * Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
-
-Workweek:
-
-* Do one day that is meeting free; the default is Friday, because it works well with travel and holidays.
-* Do a group huddle; the default is Tuesday 10 a.m. for 50 minutes.
-* Do a team retrospective; the default is a slot on Wednesday after standup to 9:50.
-
-Workday:
-
-* Each workday has a team standup meeting; the default time is 9 a.m.
-* The workday has core hours when we expect people to be together; the default core hours are from 9 a.m. to 5 p.m., because some people need to coordinate with others, such as taking kids to school, or taking commuter transportation, etc.
 
 Notation:
 
@@ -366,6 +358,37 @@ For standups and standowns, have a strong signal to end:
 * For example, one person says 3, 2, 1, then everyone claps
 
 
+## For workweeks
+
+For workweeks and scheduling, here are some examples.
+
+* Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
+* Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
+* Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
+
+
+## For workdays
+
+For workdays and scheduling, here are some questions and examples.
+
+* Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
+* Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
+* Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+* Does the workday have any expectations about flex time? For example a team may be fine with people starting/ending on different hours to accommodate commuting, parenting, schooling, volunteering, etc.
+* Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
+* Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc. 
+* Beyond workday core hours, what special availability does the team want? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
+
+
+## For workhours
+
+For workhours, here are some examples.
+
+* Does you have any kinds of ground rules about workhours? For example some countries and some industries have regulations regarding how many hours a person can work at a time, or per week, or per pay period.
+* Do you have any kinds of categorization about workhours? For example some companies and some unions have regulations about a set number of hours being paid at a regular rate, and overtime hours being paid extra.
+* Do you have any minimum/maximum workhours? For example some people have roles where workhours are as-needed, or on-call, or on-retainer; other people have roles where a set amount of workhours are expected every day, or every week.
+
+
 ## For feedback
 
 * Giving and receiving feedback is an ongoing goal of ours.
@@ -455,3 +478,17 @@ Standardized formats:
 
 * Dates and times are written using ISO standard sortability, such as the formats YYYY-MM-DD and HH:MM:SS.
 * For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
+
+
+## See also
+
+More team leadership pages that we like to share with our clients and partners:
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+* [Key performance indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
+* [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
+* [TEAM FOCUS by McKinsey](https://github.com/joelparkerhenderson/team_focus)
+* [Crucial Conversations](https://github.com/joelparkerhenderson/crucial_conversations)
+* [Responsibility assignment matrix](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
+* [Feedback request template](https://github.com/joelparkerhenderson/feedback_request_template)
+* [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+* [Social Value Orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
