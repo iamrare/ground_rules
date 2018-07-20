@@ -1,8 +1,8 @@
 <!--
   * browser: ground-rules
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 14.0.0
-  * updated: 2018-02-24T03:07:25Z
+  * version: 14.2.0
+  * updated: 2018-06-07T20:45:52Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -16,6 +16,7 @@ Contents:
 * [For everybody](#for-everybody)
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
+* [For partners](#for-partners)
 * [For teams](#for-teams)
 * [For team success at Google](#for-team-success-at-google)
 * [For team decisions](#for-team-decisions)
@@ -33,10 +34,11 @@ Contents:
 * [For technology projects](#for-technology-projects)
 * [For documentation](#for-documentation)
 
-Docs:
-* [Adult Principles by John Perry Barlow](docs/adult_principles_by_john_perry_barlow.md)
-* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
-* [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
+Documentation examples:
+* [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
+* [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
+* [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
+* [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
 
 
 ## What are ground rules?
@@ -123,6 +125,25 @@ Logistical:
 * One person talks at a time.
 * Take responsibility for what you need in the meeting.
 * Let group know your attendance plans.
+
+
+## For partners
+
+For partners, here are some examples.
+
+* View the issue as “we” not “me”.
+* Accept where you are. It’s OK if things aren’t perfect. 
+* Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
+* Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
+* Focus on one topic, rather than multiple topics.
+* Focus on one goal, rather than just airing your needs.
+* Identify the issue from each partner's perspective.
+* Brainstorm solutions.
+* Ask for a time out, if you want one.
+* Acknowledge that growth together is a process, and allow time for changes to happen.
+* Agree to check in from time to time to discuss the issue if it can’t be solved right away.
+* If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
+* If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
 
 
 ## For teams
