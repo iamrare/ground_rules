@@ -18,9 +18,9 @@ Contents:
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For partners](#for-partners)
-* [Sign language](#sign-language)
+* [For hand signs, sign language, and video conferencing](#for-hand-signs-sign-language-and-video-conferencing)
 * [For teams](#for-teams)
-  * [Team decisions](#team-decisions)
+  * [Team decisions with high-velocity](#team-decisions-with-high-velocity)
   * [Team communications](#team-communications)
   * [Team bonding](#team-bonding)
   * [Team success ideas at Google](#team-success-ideas-at-google)
@@ -46,7 +46,7 @@ Contents:
   * [For calendar notations](#for-calendar-notations)
 * [For feedback](#for-feedback)
   * [Feedback values](#feedback-values)
-  * [Feedback preferences](#feedback-preferences)
+  * [Feedback using SMART](#feedback-using-smart)
   * [Feedback safety](#feedback-safety)
 * [For technology projects](#for-technology-projects)
 * [For team documentation](#for-team-documentation)
@@ -204,29 +204,35 @@ If talking feels difficult, then consider using writing. For example, you can wr
 If communication feels blocked, then consider using a third party. For example, consider asking for help from a coach, counselor, meditator, therapist, or trusted friend.
 
 
-## For sign language
+## For hand signs, sign language, and video conferencing
 
-To vote yes, use thumb up.
+Sign language can be helpful for people who are hard of hearing, and also helpful for video conferencing, for large meetings, and for loud environments.
 
-To vote no, use thumb down.
+Vote yes: thumb up.
 
-To vote maybe, use thumb sideways.
+Vote no: thumb down.
 
-To confirm, make the "OK" sign.
+Vote maybe: thumb sideways.
 
-To ask for clarification, or to say that you have a clarification, make the letter "C" sign.
+I understand: make the "OK" sign.
 
-To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
+I don't understand: raise your open hand to your chest, palm facing front, and move it side to side.
 
-To say "Please speak louder", point to your mouth, and move your hand a bit, so the speaker notices.
+Clarification ASAP: make the letter "C" sign. This means everyone pause as soon as possible, so the facilitator can do clarification.
 
-To say "Please wait", make a closed fist.
+Ask to speak in turn: raise your open hand. This means everyone will let the person speak when it's their turn.
 
-To say "Time check", point at your wrist.
+Please be louder: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices. This can indicate "please turn on your microphone".
 
-To say "Time out", make the time out sign, then conversation stops and the facilitator takes over.
+Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can indicate "please turn off your microphone".
 
-Sign language can be helpful for people who are hard of hearing, and also helpful for video calls, for large meetings, and for loud environments.
+Please stop/freeze/wait: hold up your closed fist, fingers facing front.
+
+I'm typing in chat: show your hand and move your fingers as if you're typing on a keyboard.
+
+Time check: point at your wrist. This means please be aware that there's a time limit coming up.
+
+Time out: make the time out sign. This means conversation stops, and the facilitator takes over.
 
 
 ## For teams
